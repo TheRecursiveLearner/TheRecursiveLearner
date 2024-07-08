@@ -1,4 +1,4 @@
-# Hello, Ameer 
+# Hello, I"m Ameer 
 <a href="https://www.linkedin.com/in/ameer-r-406958205/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 [Brief Introduction - Remove this afterwards]

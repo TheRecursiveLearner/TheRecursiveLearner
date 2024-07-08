@@ -3,7 +3,7 @@
 # Hello, I'm Ameer.
 ## *PC Technician*, *IT Support*, *Network Engineer*, *Cybersecurity Professional*
 
-I began my career as a PC technician and swiftly climbed the ranks to lead operations in South America. Upon my move to the United States, I pivoted into cable installation, quickly advancing from entry-level to senior positions. Embracing the challenges of the COVID-19 pandemic, I took the initiative to self-study for Cisco CCNA certification, which propelled me into the role of a Network Engineer at an MSP. During this time, I also studied for CompTIA A+ and Microsoft Azure 900, further expanding my technical expertise.
+I began my career as a PC technician and swiftly climbed the ranks to lead operations in South America. Upon my move to the United States, I pivoted into cable installation, quickly advancing from entry-level to senior skillsets. Embracing the challenges of the COVID-19 pandemic, I took the initiative to self-study for Cisco CCNA certification, which propelled me into the role of a Network Engineer at an MSP. During this time, I also studied for CompTIA A+ and Microsoft Azure 900, further expanding my technical expertise.
 
 As a Network Engineer, I specialized in crafting and maintaining robust wired and wireless networks. I thrived in troubleshooting intricate network issues and implementing innovative solutions like load balancing and Fail-Over WANs to optimize performance. I also taught myself Firewall technology, specifically Fortinet, acquiring affordable equipment on eBay to create a safe home-lab environment where I quickly became proficient.
 

@@ -2,18 +2,17 @@
 
 ## *PC Technician*, *IT Support*, *Network Engineer*, *Cybersecurity Professional*
 
-Hello, I'm Ameer. I started my career from the ground up as a PC technician and quickly progressed to senior roles, eventually leading operations in South America. Upon relocating to the United States, I transitioned into cable installation, advancing from entry to senior levels. During the COVID-19 pandemic, I seized the opportunity to self-study for Cisco CCNA certification, which paved the way for my role as a Network Engineer.
+Hello, I'm Ameer. I began my career as a PC technician and swiftly climbed the ranks to lead operations in South America. Upon my move to the United States, I pivoted into cable installation, quickly advancing from entry-level to senior positions. Embracing the challenges of the COVID-19 pandemic, I took the initiative to self-study for Cisco CCNA certification, which propelled me into the role of a Network Engineer at an MSP. During this time, I also studied for CompTIA A+ and Microsoft Azure 900, further expanding my technical expertise.
 
-As a Network Engineer, I specialized in building and maintaining both wired and wireless networks. I excelled in troubleshooting network issues and implementing solutions to mitigate network bottlenecks such as load balancing, Fail-Over WANs, etc.
+As a Network Engineer, I specialized in crafting and maintaining robust wired and wireless networks. I thrived in troubleshooting intricate network issues and implementing innovative solutions like load balancing and Fail-Over WANs to optimize performance. I also taught myself Firewall technology, specifically Fortinet, acquiring affordable equipment on eBay to create a safe lab environment where I quickly became proficient.
 
-In this capacity, I also resolved a wide range of IT support issues across diverse vendor platforms and technologies such as Microsoft, VMware, Cisco, Fortinet, Active Directory, Hyper-V, backups, and ticketing systems.
+In addition to my networking prowess, I tackled a broad spectrum of IT support challenges across diverse platforms such as Microsoft, VMware, Cisco, Fortinet, Active Directory, Hyper-V, backups, and ticketing systems.
 
-My journey into cybersecurity began as a SOC analyst, where I am currently immersed in an internship and actively engaged with Cybernow Labs. My focus spans essential cybersecurity tools including email security, EDR (Endpoint Detection and Response), and SIEM (Security Information and Event Management).
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
+Developing a keen interest in cybersecurity during my tenure as a Network Engineer, I witnessed firsthand the direct impacts of cyber attacks. Motivated by this experience, I pursued self-study and achieved CompTIA Security+ certification.
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My journey into cybersecurity continues as a SOC analyst, currently immersed in an internship at Cybernow Labs. I'm passionate about leveraging cutting-edge cybersecurity tools including email security, EDR (Endpoint Detection and Response), Vulnerability Scanning and Management, and SIEM (Security Information and Event Management) to safeguard digital infrastructures.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]

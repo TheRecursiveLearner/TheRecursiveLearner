@@ -13,10 +13,9 @@ In addition to my networking prowess, I tackled a broad spectrum of IT support c
 ## Objective
 Developing a keen interest in cybersecurity during my tenure as a Network Engineer, I witnessed firsthand the direct impacts of cyber attacks. Motivated by this experience, I pursued self-study and achieved CompTIA Security+ certification.
 
-My journey into cybersecurity continues as a SOC analyst, currently immersed in an internship at Cybernow Labs. I'm passionate about leveraging cutting-edge cybersecurity tools including email security, EDR (Endpoint Detection and Response), Vulnerability Scanning and Management, and SIEM (Security Information and Event Management) to safeguard digital infrastructures.
+My journey into cybersecurity continues as a SOC analyst, currently immersed in an internship at Cybernow Labs. I'm passionate about leveraging cutting-edge cybersecurity tools including email security, EDR (Endpoint Detection and Response), SIEM (Security Information and Event Management), Vulnerability Scanning and Management, Incident Response, Penetration Testing, and Digital Forensics to safeguard and insulate digital infrastructures.
 
 ## Skills
-
 
 ## Tools
 

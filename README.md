@@ -1,11 +1,14 @@
-# Hello, I'm Ameer 
 <a href="https://www.linkedin.com/in/ameer-r-406958205/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 ## *PC Technician*, *IT Support*, *Network Engineer*, *Cybersecurity Professional*
 
-[Brief Introduction - Remove this afterwards]
+Hello, I'm Ameer. I started my career from the ground up as a PC technician and quickly progressed to senior roles, eventually leading operations in South America. Upon relocating to the United States, I transitioned into cable installation, advancing from entry to senior levels. During the COVID-19 pandemic, I seized the opportunity to self-study for Cisco CCNA certification, which paved the way for my role as a Network Engineer.
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+As a Network Engineer, I specialized in building and maintaining both wired and wireless networks. I excelled in troubleshooting network issues and implementing solutions to mitigate network bottlenecks such as load balancing, Fail-Over WANs, etc.
+
+In this capacity, I also resolved a wide range of IT support issues across diverse vendor platforms and technologies such as Microsoft, VMware, Cisco, Fortinet, Active Directory, Hyper-V, backups, and ticketing systems.
+
+My journey into cybersecurity began as a SOC analyst, where I am currently immersed in an internship and actively engaged with Cybernow Labs. My focus spans essential cybersecurity tools including email security, EDR (Endpoint Detection and Response), and SIEM (Security Information and Event Management).
 
 ## Objective
 [Provide Objective - Remove this afterwards]]
